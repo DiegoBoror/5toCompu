@@ -1,5 +1,7 @@
 ﻿Imports System.Data.Sql
 Imports System.Data.SqlClient
+Imports System.Text.RegularExpressions
+
 Public Class INGRESAR
     Dim con As New SqlConnection(My.Settings.conexion)
     Dim mensaje, sentencia As String
@@ -100,6 +102,10 @@ Public Class INGRESAR
     End Sub
 
     Private Sub txt_Usuario_TextChanged(sender As Object, e As EventArgs) Handles txt_Usuario.TextChanged
+
+    End Sub
+
+    Private Sub txt_Contraseña_TextChanged(sender As Object, e As EventArgs) Handles txt_Contraseña.TextChanged
 
     End Sub
 

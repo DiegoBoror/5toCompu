@@ -41,8 +41,9 @@ Partial Class INGRESAR
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
+        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(726, 618)
+        Me.PictureBox1.Size = New System.Drawing.Size(544, 502)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
@@ -56,9 +57,10 @@ Partial Class INGRESAR
         Me.Button2.BackColor = System.Drawing.Color.FromArgb(CType(CType(74, Byte), Integer), CType(CType(107, Byte), Integer), CType(CType(174, Byte), Integer))
         Me.Button2.Cursor = System.Windows.Forms.Cursors.Default
         Me.Button2.ForeColor = System.Drawing.Color.White
-        Me.Button2.Location = New System.Drawing.Point(245, 509)
+        Me.Button2.Location = New System.Drawing.Point(184, 414)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(237, 46)
+        Me.Button2.Size = New System.Drawing.Size(178, 37)
         Me.Button2.TabIndex = 28
         Me.Button2.Text = "REGISTRAR NUEVO USUARIO"
         Me.Button2.UseVisualStyleBackColor = False
@@ -69,10 +71,9 @@ Partial Class INGRESAR
         Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("Copperplate Gothic Light", 19.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.White
-        Me.Label2.Location = New System.Drawing.Point(228, 360)
-        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label2.Location = New System.Drawing.Point(171, 292)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(0, 36)
+        Me.Label2.Size = New System.Drawing.Size(0, 30)
         Me.Label2.TabIndex = 24
         '
         'Button3
@@ -80,9 +81,10 @@ Partial Class INGRESAR
         Me.Button3.BackColor = System.Drawing.Color.FromArgb(CType(CType(74, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(174, Byte), Integer))
         Me.Button3.Cursor = System.Windows.Forms.Cursors.Default
         Me.Button3.ForeColor = System.Drawing.Color.White
-        Me.Button3.Location = New System.Drawing.Point(451, 407)
+        Me.Button3.Location = New System.Drawing.Point(338, 331)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(150, 29)
+        Me.Button3.Size = New System.Drawing.Size(112, 24)
         Me.Button3.TabIndex = 29
         Me.Button3.Text = "QUITAR DATOS"
         Me.Button3.UseVisualStyleBackColor = False
@@ -92,9 +94,10 @@ Partial Class INGRESAR
         Me.Button4.BackColor = System.Drawing.Color.FromArgb(CType(CType(74, Byte), Integer), CType(CType(138, Byte), Integer), CType(CType(174, Byte), Integer))
         Me.Button4.Cursor = System.Windows.Forms.Cursors.Default
         Me.Button4.ForeColor = System.Drawing.Color.White
-        Me.Button4.Location = New System.Drawing.Point(144, 407)
+        Me.Button4.Location = New System.Drawing.Point(108, 331)
+        Me.Button4.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(150, 29)
+        Me.Button4.Size = New System.Drawing.Size(112, 24)
         Me.Button4.TabIndex = 30
         Me.Button4.Text = "REGRESAR"
         Me.Button4.UseVisualStyleBackColor = False
@@ -109,10 +112,11 @@ Partial Class INGRESAR
         Me.txt_Usuario.FocusedForeColor = System.Drawing.Color.Black
         Me.txt_Usuario.Font = New System.Drawing.Font("Segoe UI", 9.0!)
         Me.txt_Usuario.ForeColor = System.Drawing.Color.Black
-        Me.txt_Usuario.Location = New System.Drawing.Point(197, 278)
+        Me.txt_Usuario.Location = New System.Drawing.Point(148, 226)
+        Me.txt_Usuario.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.txt_Usuario.Name = "txt_Usuario"
         Me.txt_Usuario.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txt_Usuario.Size = New System.Drawing.Size(382, 48)
+        Me.txt_Usuario.Size = New System.Drawing.Size(286, 39)
         Me.txt_Usuario.TabIndex = 31
         Me.txt_Usuario.Text = "INGRESE SU USUARIO"
         '
@@ -126,10 +130,11 @@ Partial Class INGRESAR
         Me.txt_Contraseña.FocusedForeColor = System.Drawing.Color.Black
         Me.txt_Contraseña.Font = New System.Drawing.Font("Segoe UI", 9.0!)
         Me.txt_Contraseña.ForeColor = System.Drawing.Color.Black
-        Me.txt_Contraseña.Location = New System.Drawing.Point(197, 346)
+        Me.txt_Contraseña.Location = New System.Drawing.Point(148, 281)
+        Me.txt_Contraseña.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.txt_Contraseña.Name = "txt_Contraseña"
         Me.txt_Contraseña.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txt_Contraseña.Size = New System.Drawing.Size(382, 50)
+        Me.txt_Contraseña.Size = New System.Drawing.Size(286, 41)
         Me.txt_Contraseña.TabIndex = 32
         Me.txt_Contraseña.Text = "INGRESE SU CODIGO"
         '
@@ -138,19 +143,20 @@ Partial Class INGRESAR
         Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(74, Byte), Integer), CType(CType(107, Byte), Integer), CType(CType(174, Byte), Integer))
         Me.Button1.Cursor = System.Windows.Forms.Cursors.Default
         Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(245, 459)
+        Me.Button1.Location = New System.Drawing.Point(184, 373)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(237, 44)
+        Me.Button1.Size = New System.Drawing.Size(178, 36)
         Me.Button1.TabIndex = 27
         Me.Button1.Text = "INGRESAR"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'INGRESAR
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(726, 618)
+        Me.ClientSize = New System.Drawing.Size(544, 502)
         Me.Controls.Add(Me.txt_Contraseña)
         Me.Controls.Add(Me.txt_Usuario)
         Me.Controls.Add(Me.Button4)
@@ -160,6 +166,7 @@ Partial Class INGRESAR
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.PictureBox1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "INGRESAR"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "formusuario"

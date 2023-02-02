@@ -38,3 +38,27 @@ C:\Users\tf\Downloads\LOGEOS\LOGEOS\obj\Debug\LOGEOS.Aumento_de_rolvb.resources
 C:\Users\tf\Downloads\LOGEOS\LOGEOS\obj\Debug\LOGEOS.ACTIVAS_CUENTAvb.resources
 C:\Users\tf\Downloads\LOGEOS\LOGEOS\obj\Debug\LOGEOS.empleadonuevo.resources
 C:\Users\tf\Downloads\LOGEOS\LOGEOS\obj\Debug\LOGEOS.nuevos_empleado_secretaria.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\bin\Debug\LOGEOS.exe.config
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.exe
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.xml
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.pdb
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\bin\Debug\LOGEOS.exe
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\bin\Debug\LOGEOS.pdb
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\bin\Debug\LOGEOS.xml
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.vbprojResolveAssemblyReference.cache
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.ACTIVAS_CUENTAvb.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.Aumento_de_rolvb.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.BUSCAR_EMPLEADO.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.CALENDARI.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.empleadonuevo.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.Form1.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.INGRESAR.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.Resources.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.NOTICIASvb.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.ADMINISTRADOR.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.nuevos_empleado_secretaria.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.SECRETARIAvb.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.TRABAJO_CURSO.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.TRA_MESvb.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.usuario.resources
+C:\Users\INFORMATiCA\PRUEBEA GIT\5toCompu\Proyecto\LOGEOS\obj\Debug\LOGEOS.vbproj.GenerateResource.Cache

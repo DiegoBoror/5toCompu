@@ -48,10 +48,9 @@ Partial Class ACTIVAS_CUENTAvb
         '
         Me.Button2.BackColor = System.Drawing.Color.Yellow
         Me.Button2.Font = New System.Drawing.Font("Microsoft YaHei UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(91, 18)
-        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button2.Location = New System.Drawing.Point(68, 15)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(223, 62)
+        Me.Button2.Size = New System.Drawing.Size(167, 50)
         Me.Button2.TabIndex = 48
         Me.Button2.Text = "DATOS"
         Me.Button2.UseVisualStyleBackColor = False
@@ -60,10 +59,9 @@ Partial Class ACTIVAS_CUENTAvb
         '
         Me.Button5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button5.Font = New System.Drawing.Font("Microsoft YaHei UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(741, 352)
-        Me.Button5.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button5.Location = New System.Drawing.Point(556, 286)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(223, 62)
+        Me.Button5.Size = New System.Drawing.Size(167, 50)
         Me.Button5.TabIndex = 46
         Me.Button5.Text = "REGRESAR"
         Me.Button5.UseVisualStyleBackColor = False
@@ -72,10 +70,9 @@ Partial Class ACTIVAS_CUENTAvb
         '
         Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Button1.Font = New System.Drawing.Font("Microsoft YaHei UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(741, 270)
-        Me.Button1.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button1.Location = New System.Drawing.Point(556, 219)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(223, 62)
+        Me.Button1.Size = New System.Drawing.Size(167, 50)
         Me.Button1.TabIndex = 45
         Me.Button1.Text = "REGISTRAR"
         Me.Button1.UseVisualStyleBackColor = False
@@ -83,35 +80,31 @@ Partial Class ACTIVAS_CUENTAvb
         'TextBox4
         '
         Me.TextBox4.Enabled = False
-        Me.TextBox4.Location = New System.Drawing.Point(741, 228)
-        Me.TextBox4.Margin = New System.Windows.Forms.Padding(4)
+        Me.TextBox4.Location = New System.Drawing.Point(556, 185)
         Me.TextBox4.Name = "TextBox4"
-        Me.TextBox4.Size = New System.Drawing.Size(292, 22)
+        Me.TextBox4.Size = New System.Drawing.Size(220, 20)
         Me.TextBox4.TabIndex = 44
         Me.TextBox4.Text = "1"
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(741, 167)
-        Me.TextBox3.Margin = New System.Windows.Forms.Padding(4)
+        Me.TextBox3.Location = New System.Drawing.Point(556, 136)
         Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(292, 22)
+        Me.TextBox3.Size = New System.Drawing.Size(220, 20)
         Me.TextBox3.TabIndex = 43
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(741, 102)
-        Me.TextBox2.Margin = New System.Windows.Forms.Padding(4)
+        Me.TextBox2.Location = New System.Drawing.Point(556, 83)
         Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(292, 22)
+        Me.TextBox2.Size = New System.Drawing.Size(220, 20)
         Me.TextBox2.TabIndex = 42
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(741, 39)
-        Me.TextBox1.Margin = New System.Windows.Forms.Padding(4)
+        Me.TextBox1.Location = New System.Drawing.Point(556, 32)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(292, 22)
+        Me.TextBox1.Size = New System.Drawing.Size(220, 20)
         Me.TextBox1.TabIndex = 41
         '
         'Label4
@@ -119,10 +112,9 @@ Partial Class ACTIVAS_CUENTAvb
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft YaHei UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.White
-        Me.Label4.Location = New System.Drawing.Point(735, 4)
-        Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label4.Location = New System.Drawing.Point(551, 3)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(38, 31)
+        Me.Label4.Size = New System.Drawing.Size(31, 26)
         Me.Label4.TabIndex = 40
         Me.Label4.Text = "Id"
         '
@@ -131,10 +123,9 @@ Partial Class ACTIVAS_CUENTAvb
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft YaHei UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.White
-        Me.Label3.Location = New System.Drawing.Point(735, 193)
-        Me.Label3.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label3.Location = New System.Drawing.Point(551, 157)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(134, 31)
+        Me.Label3.Size = New System.Drawing.Size(106, 26)
         Me.Label3.TabIndex = 39
         Me.Label3.Text = "TIPO_ROL"
         '
@@ -143,10 +134,9 @@ Partial Class ACTIVAS_CUENTAvb
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft YaHei UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.White
-        Me.Label2.Location = New System.Drawing.Point(735, 132)
-        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label2.Location = New System.Drawing.Point(551, 107)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(115, 31)
+        Me.Label2.Size = New System.Drawing.Size(93, 26)
         Me.Label2.TabIndex = 38
         Me.Label2.Text = "CODIGO"
         '
@@ -155,20 +145,20 @@ Partial Class ACTIVAS_CUENTAvb
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft YaHei UI", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.White
-        Me.Label1.Location = New System.Drawing.Point(735, 66)
-        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label1.Location = New System.Drawing.Point(551, 54)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(129, 31)
+        Me.Label1.Size = New System.Drawing.Size(102, 26)
         Me.Label1.TabIndex = 37
         Me.Label1.Text = "USUARIO"
         '
         'DataGridView2
         '
         Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView2.Location = New System.Drawing.Point(12, 102)
+        Me.DataGridView2.Location = New System.Drawing.Point(9, 83)
+        Me.DataGridView2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.DataGridView2.Name = "DataGridView2"
         Me.DataGridView2.RowTemplate.Height = 24
-        Me.DataGridView2.Size = New System.Drawing.Size(458, 462)
+        Me.DataGridView2.Size = New System.Drawing.Size(344, 375)
         Me.DataGridView2.TabIndex = 36
         '
         'GunaElipse1
@@ -178,20 +168,20 @@ Partial Class ACTIVAS_CUENTAvb
         'uso
         '
         Me.uso.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.uso.Location = New System.Drawing.Point(499, 90)
+        Me.uso.Location = New System.Drawing.Point(374, 73)
+        Me.uso.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.uso.Name = "uso"
         Me.uso.RowTemplate.Height = 24
-        Me.uso.Size = New System.Drawing.Size(145, 325)
+        Me.uso.Size = New System.Drawing.Size(109, 264)
         Me.uso.TabIndex = 49
         '
         'Button3
         '
         Me.Button3.BackColor = System.Drawing.Color.Yellow
         Me.Button3.Font = New System.Drawing.Font("Microsoft YaHei UI", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(511, 18)
-        Me.Button3.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button3.Location = New System.Drawing.Point(383, 15)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(94, 62)
+        Me.Button3.Size = New System.Drawing.Size(70, 50)
         Me.Button3.TabIndex = 50
         Me.Button3.Text = "ID EN USO"
         Me.Button3.UseVisualStyleBackColor = False
@@ -199,18 +189,19 @@ Partial Class ACTIVAS_CUENTAvb
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(499, 421)
+        Me.DataGridView1.Location = New System.Drawing.Point(374, 342)
+        Me.DataGridView1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.RowTemplate.Height = 24
-        Me.DataGridView1.Size = New System.Drawing.Size(555, 143)
+        Me.DataGridView1.Size = New System.Drawing.Size(416, 116)
         Me.DataGridView1.TabIndex = 51
         '
         'ACTIVAS_CUENTAvb
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Red
-        Me.ClientSize = New System.Drawing.Size(1066, 577)
+        Me.ClientSize = New System.Drawing.Size(800, 469)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.uso)
@@ -227,6 +218,7 @@ Partial Class ACTIVAS_CUENTAvb
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.DataGridView2)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "ACTIVAS_CUENTAvb"
         Me.Text = "ACTIVAS_CUENTAvb"
         CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()

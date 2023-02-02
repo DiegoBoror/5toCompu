@@ -53,6 +53,32 @@ Public Class ACTIVAS_CUENTAvb
         End Try
     End Sub
 
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub TextBox1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox1.KeyPress
+        If InStr(1, "0123456789" & Chr(8), e.KeyChar) = 0 Then
+            e.KeyChar = ""
+        End If
+    End Sub
+
+    Private Sub TextBox2_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox2.KeyPress
+        If Char.IsLetter(e.KeyChar) Then
+            e.Handled = False
+        ElseIf Char.IsControl(e.KeyChar) Then
+            e.Handled = False
+        Else
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox3_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox3.KeyPress
+        If InStr(1, "0123456789" & Chr(8), e.KeyChar) = 0 Then
+            e.KeyChar = ""
+        End If
+    End Sub
+
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Sentencia = "insert into CUENTAS_ACTIVADAS values('" + TextBox1.Text + "','" + TextBox2.Text + "', '" + TextBox3.Text + "', '" + TextBox4.Text + "' )"
         EjecutarSql(Sentencia, Mensaje)
